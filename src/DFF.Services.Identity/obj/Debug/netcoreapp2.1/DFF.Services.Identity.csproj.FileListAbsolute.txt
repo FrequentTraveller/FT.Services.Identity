@@ -1,0 +1,17 @@
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\bin\Debug\netcoreapp2.1\DFF.Services.Identity.deps.json
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\bin\Debug\netcoreapp2.1\DFF.Services.Identity.runtimeconfig.json
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\bin\Debug\netcoreapp2.1\DFF.Services.Identity.runtimeconfig.dev.json
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\bin\Debug\netcoreapp2.1\DFF.Services.Identity.dll
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\bin\Debug\netcoreapp2.1\DFF.Services.Identity.pdb
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\bin\Debug\netcoreapp2.1\DFF.Common.dll
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\bin\Debug\netcoreapp2.1\DFF.Common.pdb
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.csprojAssemblyReference.cache
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.csproj.CoreCompileInputs.cache
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.RazorAssemblyInfo.cache
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.RazorAssemblyInfo.cs
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.AssemblyInfoInputs.cache
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.AssemblyInfo.cs
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.RazorTargetAssemblyInfo.cache
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.csproj.CopyComplete
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.dll
+D:\C#\DFF\DFF.Services.Identity\src\DFF.Services.Identity\obj\Debug\netcoreapp2.1\DFF.Services.Identity.pdb
